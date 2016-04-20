@@ -20,3 +20,6 @@ Pasos puntuales, necesario para que la gente se integre
 [Roadmap]
 Ejemplo: ver https://trello.com/b/EceUgtCL/ghost-roadmap
 https://github.com/TryGhost/Ghost/wiki/Roadmap
+
+
+[Agradecimientos]
